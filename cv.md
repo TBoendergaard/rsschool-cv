@@ -70,3 +70,20 @@ decodeMorse = function(morseCode){
     .join(' ')
 }
 ```
+
+---
+
+## __Work experience:__
+I was developing an online shoe store project. I wrote a FrontEnd part for a ready-made design and created a WordPress template for an online store on woocommerce for the UAE market. <br>
+[Measurement33](https://tboendergaard.github.io/index.html)
+- Made a sitemap <br>
+- Used in the development: <br>
+  - Responsive Web Design <br>
+  - BEM methodology <br>
+  - LESS preprocessor <br>
+  - jQuery and jQ Plugins <br>
+  - AJAX <br>
+  - PHP <br>
+  - MySQL <br>
+  - WordPress <br>
+  - Figma <br>
