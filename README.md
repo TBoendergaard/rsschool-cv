@@ -1,1 +1,1 @@
-[Markdown & Git](https://tboendergaard.github.io/rsschool-cv/cv)
+[HTML, CSS & Git Basics](https://tboendergaard.github.io/rsschool-cv/)
