@@ -87,3 +87,18 @@ I was developing an online shoe store project. I wrote a FrontEnd part for a rea
   - MySQL <br>
   - WordPress <br>
   - Figma <br>
+
+
+---
+
+## __Education::__
+- Secondary school.
+- Qualification EE.08 and EE.09 (Programming, creating and administering websites and databases, Installation and operation of systems computers, peripherals and networks).
+
+---
+
+## __Languages:__
+- Native **Russian** and **Ukrainian** language.
+- Communicative **Polish**.
+- Conversational **English**. 
+  - [EFSET Certificate](https://www.efset.org/cert/rvjQ9X).
