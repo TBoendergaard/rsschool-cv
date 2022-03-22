@@ -75,7 +75,7 @@ decodeMorse = function(morseCode){
 
 ## __Work experience:__
 I was developing an online shoe store project. I wrote a FrontEnd part for a ready-made design and created a WordPress template for an online store on woocommerce for the UAE market. <br>
-[Measurement33](https://tboendergaard.github.io/index.html)
+[Measurement33](https://github.com/TBoendergaard/Measurement33/tree/gh-pages)
 - Made a sitemap <br>
 - Used in the development: <br>
   - Responsive Web Design <br>
