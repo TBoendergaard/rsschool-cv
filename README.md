@@ -1,1 +1,1 @@
-[Markdown & Git](https://tboendergaard.github.io/rsschool-cv/cv)
+[Vladimir Bekarev CV](https://tboendergaard.github.io/rsschool-cv/cv)
