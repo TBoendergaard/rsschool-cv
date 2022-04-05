@@ -57,17 +57,24 @@ otherplugins)
 ---
 
 ## __Code example:__
-Decode the Morse function
+Function formats a duration, given as a number of seconds, in a human-friendly way.
 ```
-decodeMorse = function(morseCode){
-  return morseCode
-    .split("   ")
-    .map(word => word
-      .split(" ")
-      .map(character => MORSE_CODE[character])
-      .join('')
-    )
-    .join(' ')
+function formatDuration (seconds) {
+  if (seconds === 0) return 'now';
+  
+  var units = { year: 31536000, day: 86400, hour: 3600, minute: 60, second: 1 },
+      res = [];
+
+  
+  for (var key in units) {
+    if (seconds >= units[key]) {
+      var val = Math.floor(seconds/units[key]);
+      res.push(val += val > 1 ? ' ' + key + 's' : ' ' + key);
+      seconds = seconds % units[key];
+    }
+  }
+ 
+  return res.length > 1 ? res.join(', ').replace(/,(?!.*,)/,' and') : res[0]
 }
 ```
 
